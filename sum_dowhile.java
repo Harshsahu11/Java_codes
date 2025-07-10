@@ -12,5 +12,6 @@ public class sum_dowhile {
                 i++;
             }while(i<=n);
             System.out.println("Sum = "+sum);
+            Sc.close();
         }    
 }

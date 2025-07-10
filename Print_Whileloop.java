@@ -9,6 +9,6 @@ public class Print_Whileloop {
             System.out.println(i);
             i++;
         }
-
+        Sc.close();
     }
 }

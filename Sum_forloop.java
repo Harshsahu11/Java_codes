@@ -10,5 +10,6 @@ public class Sum_forloop {
             sum+=i;
         }
         System.out.println("Sum = "+sum);
+        Sc.close();
     }
 }

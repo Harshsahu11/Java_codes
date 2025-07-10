@@ -11,6 +11,7 @@ public class SimpleIntrest {
 
         float SI= (P*R*T)/100;
         System.out.println("Simple Intrest : "+SI);
+        Sc.close();
     }
     
 }
