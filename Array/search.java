@@ -28,5 +28,6 @@ public class search {
         }else{
             System.out.println("Element found at index : "+(-1));
         }
+        Sc.close();
     }
 }
