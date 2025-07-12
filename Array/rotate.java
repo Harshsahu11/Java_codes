@@ -38,5 +38,6 @@ public class rotate {
             System.out.print(i+" ");
         }
         System.out.println();
+        Sc.close();
     }
 }
