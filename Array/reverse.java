@@ -1,7 +1,7 @@
 package Array;
 
 public class reverse {
-    public static void reverse(int[] arr){
+    public static void reversearr(int[] arr){
         int n=arr.length-1;
         int mid=n/2;
         for(int i=0;i<=mid;i++){
@@ -18,7 +18,7 @@ public class reverse {
             System.out.println(i);
         }
 
-        reverse(arr);
+        reversearr(arr);
         System.out.println("Reversed");
         for(int i:arr){
             System.out.println(i);
